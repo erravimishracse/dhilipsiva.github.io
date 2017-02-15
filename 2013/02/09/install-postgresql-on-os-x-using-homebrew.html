@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Install PostgreSQL on OS X using Homebrew | dhilipsiva</title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <meta name="title" content="Install PostgreSQL on OS X using Homebrew | dhilipsiva"/>
+        <meta name="description" content=""/>
+        <meta name="keywords" content="dhilipsiva"/>
+
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="Install PostgreSQL on OS X using Homebrew | dhilipsiva" />
+        <meta property="og:description" content="" />
+        <meta property="og:url" content="http://dhilipsiva.com/2013/02/09/install-postgresql-on-os-x-using-homebrew.html" />
+        <meta property="fb:profile_id"   content="1627550002" />
+
+        <meta name="twitter:title" content="Install PostgreSQL on OS X using Homebrew | dhilipsiva" />
+        <meta name="twitter:description" content="" />
+        <meta name="twitter:creator" content="@dhilipsiva">
+        <meta name="twitter:url" content="http://dhilipsiva.com/2013/02/09/install-postgresql-on-os-x-using-homebrew.html" />
+        <meta name="twitter:site" content="@dhilipsiva" />
+        <meta name="twitter:domain" content="dhilipsiva.com" />
+
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="http://dhilipsiva.com/feed.xml">
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+        <link type="text/css" rel="stylesheet" href="/assets/styles-52a7d08d0d2ce659aa0fc54dd2bfc641601d8f5e46acabab11392ef4f4615e43.css">
+        <!-- Begin Jekyll SEO tag v2.1.0 -->
+<title>Install PostgreSQL on OS X using Homebrew - dhilipsiva</title>
+<meta property="og:title" content="Install PostgreSQL on OS X using Homebrew" />
+<meta name="description" content="Strong advice: DO NOT use any “installers” for you development purpose. And by installers, I mean GUI based wizards / drag and drop ones. always rely on command-line. If you are not using Homebrew yet, Start using it immediately. For those who have never used it, is it like an “apt-get” for mac. Technically speaking, it is a package-manager. There is an other alternative to Homebrew called MacPorts. But I have never user MacPorts. I am happy with Homebrew. So I dont know much about MacPorts." />
+<meta property="og:description" content="Strong advice: DO NOT use any “installers” for you development purpose. And by installers, I mean GUI based wizards / drag and drop ones. always rely on command-line. If you are not using Homebrew yet, Start using it immediately. For those who have never used it, is it like an “apt-get” for mac. Technically speaking, it is a package-manager. There is an other alternative to Homebrew called MacPorts. But I have never user MacPorts. I am happy with Homebrew. So I dont know much about MacPorts." />
+<link rel="canonical" href="http://dhilipsiva.com/2013/02/09/install-postgresql-on-os-x-using-homebrew.html" />
+<meta property="og:url" content="http://dhilipsiva.com/2013/02/09/install-postgresql-on-os-x-using-homebrew.html" />
+<meta property="og:site_name" content="dhilipsiva" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2013-02-09T00:00:00+05:30" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@dhilipsiva" />
+<meta property="fb:admins" content="1627550002" />
+<script type="application/ld+json">
+{"@context": "http://schema.org",
+"@type": "BlogPosting",
+"headline": "Install PostgreSQL on OS X using Homebrew",
+"datePublished": "2013-02-09T00:00:00+05:30",
+"description": "Strong advice: DO NOT use any “installers” for you development purpose. And by installers, I mean GUI based wizards / drag and drop ones. always rely on command-line. If you are not using Homebrew yet, Start using it immediately. For those who have never used it, is it like an “apt-get” for mac. Technically speaking, it is a package-manager. There is an other alternative to Homebrew called MacPorts. But I have never user MacPorts. I am happy with Homebrew. So I dont know much about MacPorts.",
+"url": "http://dhilipsiva.com/2013/02/09/install-postgresql-on-os-x-using-homebrew.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a class="header-letter-spacing" href="/">
+                            dhilipsiva
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    <li>
+                        <a href="/profiles/">Profiles</a>
+                    </li>
+                    <li>
+                        <a href="/technologies/">Technologies</a>
+                    </li>
+                    <li>
+                        <a href="/experience/">Experience</a>
+                    </li>
+                    <li>
+                        <a href="/portfolio/">Portfolio</a>
+                    </li>
+                    <li>
+                        <a href="/open-source/">Open Source</a>
+                    </li>
+                    <li>
+                        <a href="/press/">Press</a>
+                    </li>
+                    <li>
+                        <a href="/services/">Services</a>
+                    </li>
+                    <li>
+                        <a href="/blog/">Blog</a>
+                    </li>
+                    <li>
+                        <a href="/testimonials/">Testimonials</a>
+                    </li>
+                    <li>
+                        <a href="/hire-me/">Hire Me</a>
+                    </li>
+                    <li>
+                        <a href="/resume/dhilipsiva-resume.pdf" target="_blank">Resume</a>
+                    </li>
+                    <!--
+                    <li>
+                        <a href="/job-board/">Job Board</a>
+                    </li>
+                    --!>
+                    <li>
+                        <a href="/contact-me/">Contact Me</a>
+                    </li>
+                    <li>
+                        <a href="/credits/">Credits</a>
+                    </li>
+                </ul>
+            </div>
+            <div id="page-content-wrapper">
+                <div class="content-header">
+                    <a id="menu-toggle" href="#" class="btn btn-success">
+                        &#9776; Menu
+                    </a>
+                    <h1>Install PostgreSQL on OS X using Homebrew</h1>
+                    <h3></h3>
+                </div>
+                <div class="page-content inset">
+                    <p class="meta">09 Feb 2013</p>
+<a class="btn btn-success pull-right" href="/blog">← back</a>
+
+<div class="post">
+    <p><strong>Strong advice</strong>: DO NOT use any “installers” for you development purpose. And by installers, I mean GUI based wizards / drag and drop ones. always rely on command-line. If you are not using <a href="http://brew.sh/">Homebrew</a> yet, Start using it immediately. For those who have never used it, is it like an “apt-get” for mac. Technically speaking, it is a package-manager. There is an other alternative to Homebrew called <a href="http://www.macports.org/">MacPorts</a>. But I have never user MacPorts. I am happy with Homebrew. So I dont know much about MacPorts.</p>
+
+<p>So before installing through Homebrew make sure that you uninstalled the old version completely and restarted (Just to make sure there are no startup items related to postgres) your mac. Open “Activity Monitor” and ensure there are no “postgres” processes. And follow commands. If required run command “brew doctor” just to make sure that everything is OK with Homebrew.</p>
+
+<div class="language-sh highlighter-rouge"><pre class="highlight"><code>brew update
+brew install postgresql
+initdb /usr/local/var/postgres
+cp /usr/local/Cellar/postgresql/<span class="o">(</span>your-pg-version<span class="o">)</span>/homebrew.mxcl.postgresql.plist ~/Library/LaunchAgents/
+launchctl load -w ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
+pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
+</code></pre>
+</div>
+
+<p>Note: When you use Homebrew to install Postgresql, It does not create a “postgres” user for you. If you really need it, you can create one yourself. But normally the user that you are currently logged in as will  have super-user privileges. It comes in handy during development.</p>
+
+</div>
+
+                </div>
+                <hr />
+                <div class="row inset">
+                    <p class="font-size-tiny ps-padding">
+                        PS: All letters of the name, "dhilipsiva", are lowercased. This is NOT a typo. I prefer my name lowercased.
+                        <br />
+                        <br />
+                        PSS: This site is PRIVACY FRIENDLY. I DO NOT track any visitor.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="/assets/app-87740cf040077a1767660b22ad12f94b3068353d0052b5d635773350554990f5.js"></script>
+    </body>
+</html>

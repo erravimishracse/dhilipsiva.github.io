@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Appropriate Number of Gunicorn Workers | dhilipsiva</title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <meta name="title" content="Appropriate Number of Gunicorn Workers | dhilipsiva"/>
+        <meta name="description" content=""/>
+        <meta name="keywords" content="dhilipsiva"/>
+
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="Appropriate Number of Gunicorn Workers | dhilipsiva" />
+        <meta property="og:description" content="" />
+        <meta property="og:url" content="http://dhilipsiva.com/2015/10/22/appropriate-number-of-gunicorn-workers.html" />
+        <meta property="fb:profile_id"   content="1627550002" />
+
+        <meta name="twitter:title" content="Appropriate Number of Gunicorn Workers | dhilipsiva" />
+        <meta name="twitter:description" content="" />
+        <meta name="twitter:creator" content="@dhilipsiva">
+        <meta name="twitter:url" content="http://dhilipsiva.com/2015/10/22/appropriate-number-of-gunicorn-workers.html" />
+        <meta name="twitter:site" content="@dhilipsiva" />
+        <meta name="twitter:domain" content="dhilipsiva.com" />
+
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="http://dhilipsiva.com/feed.xml">
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+        <link type="text/css" rel="stylesheet" href="/assets/styles-52a7d08d0d2ce659aa0fc54dd2bfc641601d8f5e46acabab11392ef4f4615e43.css">
+        <!-- Begin Jekyll SEO tag v2.1.0 -->
+<title>Appropriate Number of Gunicorn Workers - dhilipsiva</title>
+<meta property="og:title" content="Appropriate Number of Gunicorn Workers" />
+<meta name="description" content="To quote Gunicorn documentation" />
+<meta property="og:description" content="To quote Gunicorn documentation" />
+<link rel="canonical" href="http://dhilipsiva.com/2015/10/22/appropriate-number-of-gunicorn-workers.html" />
+<meta property="og:url" content="http://dhilipsiva.com/2015/10/22/appropriate-number-of-gunicorn-workers.html" />
+<meta property="og:site_name" content="dhilipsiva" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2015-10-22T00:00:00+05:30" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@dhilipsiva" />
+<meta property="fb:admins" content="1627550002" />
+<script type="application/ld+json">
+{"@context": "http://schema.org",
+"@type": "BlogPosting",
+"headline": "Appropriate Number of Gunicorn Workers",
+"datePublished": "2015-10-22T00:00:00+05:30",
+"description": "To quote Gunicorn documentation",
+"url": "http://dhilipsiva.com/2015/10/22/appropriate-number-of-gunicorn-workers.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a class="header-letter-spacing" href="/">
+                            dhilipsiva
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    <li>
+                        <a href="/profiles/">Profiles</a>
+                    </li>
+                    <li>
+                        <a href="/technologies/">Technologies</a>
+                    </li>
+                    <li>
+                        <a href="/experience/">Experience</a>
+                    </li>
+                    <li>
+                        <a href="/portfolio/">Portfolio</a>
+                    </li>
+                    <li>
+                        <a href="/open-source/">Open Source</a>
+                    </li>
+                    <li>
+                        <a href="/press/">Press</a>
+                    </li>
+                    <li>
+                        <a href="/services/">Services</a>
+                    </li>
+                    <li>
+                        <a href="/blog/">Blog</a>
+                    </li>
+                    <li>
+                        <a href="/testimonials/">Testimonials</a>
+                    </li>
+                    <li>
+                        <a href="/hire-me/">Hire Me</a>
+                    </li>
+                    <li>
+                        <a href="/resume/dhilipsiva-resume.pdf" target="_blank">Resume</a>
+                    </li>
+                    <!--
+                    <li>
+                        <a href="/job-board/">Job Board</a>
+                    </li>
+                    --!>
+                    <li>
+                        <a href="/contact-me/">Contact Me</a>
+                    </li>
+                    <li>
+                        <a href="/credits/">Credits</a>
+                    </li>
+                </ul>
+            </div>
+            <div id="page-content-wrapper">
+                <div class="content-header">
+                    <a id="menu-toggle" href="#" class="btn btn-success">
+                        &#9776; Menu
+                    </a>
+                    <h1>Appropriate Number of Gunicorn Workers</h1>
+                    <h3></h3>
+                </div>
+                <div class="page-content inset">
+                    <p class="meta">22 Oct 2015</p>
+<a class="btn btn-success pull-right" href="/blog">← back</a>
+
+<div class="post">
+    <p>To quote <a href="http://docs.gunicorn.org/en/19.3/design.html#how-many-workers">Gunicorn documentation</a></p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Generally we recommend (2 x $num_cores) + 1 as the number of workers to start off with. While not overly scientific, the formula is based on the assumption that for a given core, one worker will be reading or writing from the socket while the other worker is processing a request.
+Obviously, your particular hardware and application are going to affect the optimal number of workers. Our recommendation is to start with the above guess and tune using TTIN and TTOU signals while the application is under load.
+</code></pre>
+</div>
+
+<p>Gunicorn docs suggests that 2n+1 [<code class="highlighter-rouge">gunicorn -w &lt;2n+1&gt; myapp:wsgi</code>] is a good guess for number of workers (Yes, n = number of cores). I came up with a tiny shell script to apply this formula. All you need to do is this:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>gunicorn -w $(( 2 * `cat /proc/cpuinfo | grep 'core id' | wc -l` + 1 )) myapp:wsgi
+</code></pre>
+</div>
+
+<p>Where the command</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>cat /proc/cpuinfo | grep 'core id' | wc -l
+</code></pre>
+</div>
+
+<p>will return the total number of actual CPU cores (n). So,</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$(( 2 * `cat /proc/cpuinfo | grep 'core id' | wc -l` + 1 ))
+</code></pre>
+</div>
+
+<p>equates to 2n+1 formula.</p>
+
+<p>This will apply 2n+1 formula to all the linux-based machines.</p>
+
+<p>You can also achieve this with <a href="http://docs.gunicorn.org/en/19.3/configure.html#configuration-file">Gunicorn Configuration File</a> <code class="highlighter-rouge">gunicorn.conf.py</code> as follows</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>import multiprocessing
+
+bind = "127.0.0.1:8000"
+workers = multiprocessing.cpu_count() * 2 + 1
+</code></pre>
+</div>
+
+<p>This was an <a href="http://stackoverflow.com/questions/15979428/what-is-the-appropriate-number-of-gunicorn-workers-for-each-amazon-instance-type/27664071#27664071">Answer that I posted in StackOverflow</a></p>
+
+</div>
+
+                </div>
+                <hr />
+                <div class="row inset">
+                    <p class="font-size-tiny ps-padding">
+                        PS: All letters of the name, "dhilipsiva", are lowercased. This is NOT a typo. I prefer my name lowercased.
+                        <br />
+                        <br />
+                        PSS: This site is PRIVACY FRIENDLY. I DO NOT track any visitor.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="/assets/app-87740cf040077a1767660b22ad12f94b3068353d0052b5d635773350554990f5.js"></script>
+    </body>
+</html>

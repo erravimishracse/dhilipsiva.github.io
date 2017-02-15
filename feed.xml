@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://dhilipsiva.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://dhilipsiva.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://dhilipsiva.com/" rel="alternate" type="text/html" /><updated>2017-02-15T09:13:04+05:30</updated><id>http://dhilipsiva.com//</id><title type="html">dhilipsiva</title><subtitle>dhilipsiva's random musings, info, interestes, experience, portfolio and everything.
+</subtitle><author><name>dhilipsiva</name></author><entry><title type="html">I = this;  # Godel Escher Bach, Programming &amp;amp; Spirituality</title><link href="http://dhilipsiva.com/2017/01/12/i-this-godel-escher-bach-programming-spirituality.html" rel="alternate" type="text/html" title="I = this;  # Godel Escher Bach, Programming &amp; Spirituality" /><published>2017-01-12T00:00:00+05:30</published><updated>2017-01-12T00:00:00+05:30</updated><id>http://dhilipsiva.com/2017/01/12/i-this-godel-escher-bach-programming-spirituality</id><content type="html" xml:base="http://dhilipsiva.com/2017/01/12/i-this-godel-escher-bach-programming-spirituality.html">&lt;p&gt;TL;DR: &lt;code class=&quot;highlighter-rouge&quot;&gt;assert_true(has_strange_loop_read_GEB(at_least=0.6))&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;To understand what I am attempting to say, you should:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Understand “spirituality”, the way I understand it&lt;/li&gt;
+  &lt;li&gt;Know a decent amount of Programming (Object Oriented)&lt;/li&gt;
+  &lt;li&gt;Have read the &lt;a href=&quot;https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach&quot;&gt;GEB:EGB&lt;/a&gt; (Not completely, but at-least 60% through. Or at least you should have read “&lt;a href=&quot;https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop&quot;&gt;I am a Strange Loop&lt;/a&gt;”)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Just to set things straight, I am an Atheist. For me, Spirituality != Religious Experience. For me, Spirituality == &lt;a href=&quot;https://www.youtube.com/watch?v=0vnA_KIojLg&quot;&gt;a Sense of Oneness&lt;/a&gt; (Or a Scientific / Mathematical Experience).&lt;/p&gt;
+
+&lt;p&gt;What do I mean by “a sense of oneness”? It means that I realize that I am made up of same atoms that makes up our earth, Sun, Galaxy, Universe and everything it. These are the same atoms that sprung into existence when the Big Bang happened almost 14 Billion years ago. So, in a manner of speaking, we are all &lt;code class=&quot;highlighter-rouge&quot;&gt;one and the same&lt;/code&gt;. That to me - is spirituality. The time and space that make one feel so irrelevant, yet some how paradoxically, make someone feel as big and as old as universe itself. Possibility of life is astronomically small. And the odds of a living creature being a human are even smaller. And yet, here we are - me writing this post and you reading it. What are the odds of that happening? We are so incredibly lucky to even be here. To the universe, you are no different from a speck of dust, neither are you different from a vast ocean. Feeling humble compared to the vastness of space and time. This, to me, is spirituality. As opposed to “feeling special enough to be created by a divine &amp;amp; supernatural being in his image” (Honestly, I believe it is arrogant to think like that).&lt;/p&gt;
+
+&lt;p&gt;With that said, I would also like to mention that I do not hate each and every religious activities. There are few things that are logical, good and evolved over time. Buddhist monks have demonstrated an almost supernatural abilities like controlling your heart-beat and temperate through meditation. Great saints have once told that to achieve enlightenment, one should let go of earthly tethers. Which, I think, also means be as much selfless as possible. Let go of your materialistic lifestyle. While I could never completely do that myself - I try to get as close as possible. I do not care about my external experience, what I wear, etc. I do not celebrate any birthdays / anniversaries. And so many other things.&lt;/p&gt;
+
+&lt;p&gt;Well this one is pretty short. If you have done any amount of object oriented programming, you know what &lt;code class=&quot;highlighter-rouge&quot;&gt;this&lt;/code&gt; (or &lt;code class=&quot;highlighter-rouge&quot;&gt;self&lt;/code&gt;) is. Its a self-referential keyword. Something that represents the object from within itself. There is nothing more to tell about it.&lt;/p&gt;
+
+&lt;p&gt;Strange Loop &amp;amp; Tangled Hierarchies. &lt;code class=&quot;highlighter-rouge&quot;&gt;I&lt;/code&gt; is a strange loop. It is a place where brain’s Physical &amp;amp; Symbolic level feedbacks into each-other like a paradox. A recursion. This is just like a &lt;code class=&quot;highlighter-rouge&quot;&gt;this&lt;/code&gt; of programming. &lt;code class=&quot;highlighter-rouge&quot;&gt;this&lt;/code&gt; is to objects as &lt;code class=&quot;highlighter-rouge&quot;&gt;I&lt;/code&gt; is to humans. A language functional language like C is faster and light weight. Because it does not deal with complexities of a Object Oriented language which has a meaning to &lt;code class=&quot;highlighter-rouge&quot;&gt;this&lt;/code&gt; - which is made possible through recursions. Like wise, when you let go of &lt;code class=&quot;highlighter-rouge&quot;&gt;I&lt;/code&gt; (as much as possible) and think about the word around you just as functions of simple math and science, you become lighter - just as the monks used to practice.&lt;/p&gt;
+
+&lt;p&gt;I am not sure if I am making any sense here. These Ideas are very abstract. Should you be able to put this in better words - do let me know. Maybe I am lacking the language to express what I am feeling.&lt;/p&gt;</content><author><name>dhilipsiva</name></author><summary type="html">TL;DR: assert_true(has_strange_loop_read_GEB(at_least=0.6))</summary></entry><entry><title type="html">Bangalore Machine Learning Meetup (BangML)</title><link href="http://dhilipsiva.com/2016/11/06/bangalore-machine-learning-meetup-bangml.html" rel="alternate" type="text/html" title="Bangalore Machine Learning Meetup (BangML)" /><published>2016-11-06T00:00:00+05:30</published><updated>2016-11-06T00:00:00+05:30</updated><id>http://dhilipsiva.com/2016/11/06/bangalore-machine-learning-meetup-bangml</id><content type="html" xml:base="http://dhilipsiva.com/2016/11/06/bangalore-machine-learning-meetup-bangml.html">&lt;p&gt;Hello Everybody!&lt;/p&gt;
+
+&lt;p&gt;Welcome to Bangalore Machine Learning Meetup (BangML)!!&lt;/p&gt;
+
+&lt;p&gt;If you have known me for some time, you know that I am quite enthusiastic about ML. I was trying to join some local groups but the content did not satisfy me. So I thought that I will create my own group and promote it.&lt;/p&gt;
+
+&lt;p&gt;Are you a Machine Learning expert? Or someone who is enthusiastic about Machine Learning? Then this group is for you. Lets get together &amp;amp; share what we learnt. TensorFlow. SciKit. PredictionIO. NuPIC (numenta). Bots. Neural Networks. Deep Neural Networks. Deep Learning. Computer Vision. NLP. Kaggle. Data Analysis / Visualization. Python. Julia. Octave. Matlab. Aerosolve. GoLearn.&lt;/p&gt;
+
+&lt;p&gt;Here is how to join:&lt;/p&gt;
+
+&lt;p&gt;Meetup: &lt;a href=&quot;https://www.meetup.com/BangML/&quot;&gt;https://www.meetup.com/BangML/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/BangMLMeetup/&quot;&gt;https://www.facebook.com/BangMLMeetup/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;LinkedIn: &lt;a href=&quot;https://www.linkedin.com/groups/10325173&quot;&gt;https://www.linkedin.com/groups/10325173&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mailing List: &lt;a href=&quot;mailto:BangML-list@meetup.com&quot;&gt;BangML-list@meetup.com&lt;/a&gt;&lt;/p&gt;</content><author><name>dhilipsiva</name></author><summary type="html">Hello Everybody!</summary></entry><entry><title type="html">If you need a degree certificate (from a reputed college or otherwise) to succeed in life, then you were not educated properly.</title><link href="http://dhilipsiva.com/2016/10/19/if-you-need-a-degree-certificate-form-a-reputed-college-or-otherwise-to-succeed-in-life-then-you-were-not-educated-properly.html" rel="alternate" type="text/html" title="If you need a degree certificate (from a reputed college or otherwise) to succeed in life, then you were not educated properly." /><published>2016-10-19T00:00:00+05:30</published><updated>2016-10-19T00:00:00+05:30</updated><id>http://dhilipsiva.com/2016/10/19/if-you-need-a-degree-certificate-form-a-reputed-college-or-otherwise-to-succeed-in-life-then-you-were-not-educated-properly</id><content type="html" xml:base="http://dhilipsiva.com/2016/10/19/if-you-need-a-degree-certificate-form-a-reputed-college-or-otherwise-to-succeed-in-life-then-you-were-not-educated-properly.html">&lt;h2 id=&quot;say-what-now&quot;&gt;Say what now?&lt;/h2&gt;
+
+&lt;p&gt;Yes, you read that right. &lt;code class=&quot;highlighter-rouge&quot;&gt;If you need a degree certificate (from a reputed college or otherwise) to succeed in life, then you were not educated properly.&lt;/code&gt;. Most probably. I left out the &lt;code class=&quot;highlighter-rouge&quot;&gt;most probably&lt;/code&gt; part of the title because it would not fit a single tweet (with the link of this post). :P :D&lt;/p&gt;
+
+&lt;p&gt;Before I begin, I am not trying to hurt anyone’s feelings. If you are one of the people who got butt-hurt reading the title, my sincere apologies that your teeny, tiny &amp;amp; tender butt got hurt. And I am not being judgemental. I don’t judge their path if I haven’t walked their journey. I am just merely making a simple observation - from an experience that’s alien to most people.&lt;/p&gt;
+
+&lt;h2 id=&quot;justifying-my-claim&quot;&gt;Justifying my claim&lt;/h2&gt;
+
+&lt;p&gt;I am not a graduate. I kept going to college for 4 years - but I had 36 backlogs. I am not joking - my hall ticket had an additional sheet. Because 1 sheet of an A4-sized hall ticket was not sufficient to hold all the papers that I was required to attend. If you do not believe me, call up my friends and ask them. Call up my college / the Head of the Department. There were 132 students in my batch. I was literally 132nd student (score wise). As a matter of fact - I might hold the record for the worst score ever. And might be the reigning champion in that category for years.&lt;/p&gt;
+
+&lt;p&gt;You should not measure the success just by comparing the money that you are making, right? I do think so. Many other things matter too. Satisfaction, the impact that you are having on society are all just as important as well. But for those who just compare money, here is my answer: Take the top 10 most paid guys from my class. Now add it all together. I have made more money than that. I am supremely satisfied and happy about what I am doing. I am helping the world be a safer place in this digital age. Which should count for something.&lt;/p&gt;
+
+&lt;p&gt;All this and no degree. I still have no degree. I refuse to get one. Most of my relatives want me to get one (BTW, sorry Mamu &amp;amp; Mathan ayya if you are reading this). I would be ashamed if I have a degree. Again, not being judgemental about people who have a degree. This is purely about me. Let me explain why&lt;/p&gt;
+
+&lt;h2 id=&quot;a-framework-of-mostly-mediocre-minds&quot;&gt;A framework of (mostly) mediocre minds&lt;/h2&gt;
+
+&lt;p&gt;The educational system that we are following today has not evolved for a long period of time. I know the lessons are getting harder and harder each year. But I would not call that an evolution. Maybe a minor improvement. To paraphrase Steve Jobs, the current educational system is just a framework (or a protocol) established by a group of people (majority of whom are mediocre people) to tell you how to lead a life.&lt;/p&gt;
+
+&lt;p&gt;It is &lt;a href=&quot;https://en.wikipedia.org/wiki/Demographics_of_India&quot;&gt;estimated&lt;/a&gt; that more than 50% of people in India are less than 25 years of age. That is almost 700 million of them. For the sake of argument, consider you are wasting just 1 hour of everybody’s time to teach something that they are never going to use. You might think &lt;code class=&quot;highlighter-rouge&quot;&gt;what is the harm in that?&lt;/code&gt; right? Let me put in perspective for you. You are wasting approximately 80,000 years worth of man-hours. And that is just in India. Think of other things that you could have done in that time. Think of a simple task like planting a tree. 700 million plants planted. You know how much of carbon-di-oxide could have been reduced?&lt;/p&gt;
+
+&lt;p&gt;I know I am speaking very idealistic here. But today’s educational system is supremely bad. And I am not talking about MIT or Stanford (or other sensible institutions). I think they are okay. But the rest is just pure crap (IMHO).&lt;/p&gt;
+
+&lt;p&gt;Think about it. You spend years at an institution, learn some stuff. But if that counts for nothing without a piece of paper that certifies you, then it is not an education at all. I think this is fairly obvious. If you do not get it - do comment I will attempt to explain.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-thoughts&quot;&gt;Final thoughts&lt;/h2&gt;
+
+&lt;p&gt;See, I am not saying that everyone should stop getting degrees, right? I am just saying that there are other options. And that things need to change. We are in 2016. We are not in the Industrial age anymore. This digital age. Mahatma Gandi once said &lt;code class=&quot;highlighter-rouge&quot;&gt;be the change you want to see&lt;/code&gt;. And an other great man once said &lt;code class=&quot;highlighter-rouge&quot;&gt;The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion&lt;/code&gt;. I guess that is what I am trying to do here. Acquire a skill that there is a demand for (the one that you like that most). Work hard and practice all the time to hone your skills. You would not require a degree certificate (from a reputed college or otherwise) to succeed in life anymore. You would be properly educated.&lt;/p&gt;</content><author><name>dhilipsiva</name></author><summary type="html">Say what now?</summary></entry><entry><title type="html">Upgrading to jekyll 3.3.0</title><link href="http://dhilipsiva.com/2016/10/16/upgrading-to-jekyll-3-3-0.html" rel="alternate" type="text/html" title="Upgrading to jekyll 3.3.0" /><published>2016-10-16T00:00:00+05:30</published><updated>2016-10-16T00:00:00+05:30</updated><id>http://dhilipsiva.com/2016/10/16/upgrading-to-jekyll-3-3-0</id><content type="html" xml:base="http://dhilipsiva.com/2016/10/16/upgrading-to-jekyll-3-3-0.html">&lt;p&gt;I have upgraded my site to Jekyll 3.3.0.&lt;/p&gt;
+
+&lt;p&gt;This is a test post to make sure that nothing is broken.&lt;/p&gt;
+
+&lt;p&gt;If you find any bugs, please &lt;a href=&quot;https://github.com/dhilipsiva/dhilipsiva.github.io/issues/new&quot;&gt;create a new Issue&lt;/a&gt;&lt;/p&gt;</content><author><name>dhilipsiva</name></author><summary type="html">I have upgraded my site to Jekyll 3.3.0.</summary></entry><entry><title type="html">Appropriate Number of Gunicorn Workers</title><link href="http://dhilipsiva.com/2015/10/22/appropriate-number-of-gunicorn-workers.html" rel="alternate" type="text/html" title="Appropriate Number of Gunicorn Workers" /><published>2015-10-22T00:00:00+05:30</published><updated>2015-10-22T00:00:00+05:30</updated><id>http://dhilipsiva.com/2015/10/22/appropriate-number-of-gunicorn-workers</id><content type="html" xml:base="http://dhilipsiva.com/2015/10/22/appropriate-number-of-gunicorn-workers.html">&lt;p&gt;To quote &lt;a href=&quot;http://docs.gunicorn.org/en/19.3/design.html#how-many-workers&quot;&gt;Gunicorn documentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Generally we recommend (2 x $num_cores) + 1 as the number of workers to start off with. While not overly scientific, the formula is based on the assumption that for a given core, one worker will be reading or writing from the socket while the other worker is processing a request.
+Obviously, your particular hardware and application are going to affect the optimal number of workers. Our recommendation is to start with the above guess and tune using TTIN and TTOU signals while the application is under load.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Gunicorn docs suggests that 2n+1 [&lt;code class=&quot;highlighter-rouge&quot;&gt;gunicorn -w &amp;lt;2n+1&amp;gt; myapp:wsgi&lt;/code&gt;] is a good guess for number of workers (Yes, n = number of cores). I came up with a tiny shell script to apply this formula. All you need to do is this:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gunicorn -w $(( 2 * `cat /proc/cpuinfo | grep 'core id' | wc -l` + 1 )) myapp:wsgi
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Where the command&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cat /proc/cpuinfo | grep 'core id' | wc -l
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;will return the total number of actual CPU cores (n). So,&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$(( 2 * `cat /proc/cpuinfo | grep 'core id' | wc -l` + 1 ))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;equates to 2n+1 formula.&lt;/p&gt;
+
+&lt;p&gt;This will apply 2n+1 formula to all the linux-based machines.&lt;/p&gt;
+
+&lt;p&gt;You can also achieve this with &lt;a href=&quot;http://docs.gunicorn.org/en/19.3/configure.html#configuration-file&quot;&gt;Gunicorn Configuration File&lt;/a&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;gunicorn.conf.py&lt;/code&gt; as follows&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;import multiprocessing
+
+bind = &quot;127.0.0.1:8000&quot;
+workers = multiprocessing.cpu_count() * 2 + 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This was an &lt;a href=&quot;http://stackoverflow.com/questions/15979428/what-is-the-appropriate-number-of-gunicorn-workers-for-each-amazon-instance-type/27664071#27664071&quot;&gt;Answer that I posted in StackOverflow&lt;/a&gt;&lt;/p&gt;</content><author><name>dhilipsiva</name></author><summary type="html">To quote Gunicorn documentation</summary></entry><entry><title type="html">Architecture at AppKnox</title><link href="http://dhilipsiva.com/2015/01/26/architecture-at-appknox.html" rel="alternate" type="text/html" title="Architecture at AppKnox" /><published>2015-01-26T00:00:00+05:30</published><updated>2015-01-26T00:00:00+05:30</updated><id>http://dhilipsiva.com/2015/01/26/architecture-at-appknox</id><content type="html" xml:base="http://dhilipsiva.com/2015/01/26/architecture-at-appknox.html">&lt;h2 id=&quot;what-does-appknox-do&quot;&gt;What does Appknox do?&lt;/h2&gt;
+
+&lt;p&gt;Appknox helps developers and enterprises to uncover and fix security loopholes in mobile applications.&lt;/p&gt;
+
+&lt;p&gt;Securing your app is as simple as submitting your store link / uploading your app. We scan for security vulnerabilities and report back to you with vulnerabilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;primary-languages&quot;&gt;Primary Languages&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Python &amp;amp; Shell for the Back-end&lt;/li&gt;
+  &lt;li&gt;CoffeeScript and LESS for Front-end&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;our-stack&quot;&gt;Our Stack&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Django&lt;/li&gt;
+  &lt;li&gt;Postgres (Migrated from MySQL)&lt;/li&gt;
+  &lt;li&gt;RabbitMQ&lt;/li&gt;
+  &lt;li&gt;Celery&lt;/li&gt;
+  &lt;li&gt;Redis&lt;/li&gt;
+  &lt;li&gt;Memcached&lt;/li&gt;
+  &lt;li&gt;Varnish&lt;/li&gt;
+  &lt;li&gt;Nginx&lt;/li&gt;
+  &lt;li&gt;Ember&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;architecture&quot;&gt;Architecture&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/architecture-at-appknox-32ccd5701f9b6ea8de88396e762a97151cd2e5ba163f73bc98f79299bd214865.jpg&quot; width=&quot;1024&quot; height=&quot;768&quot; alt=&quot;architecture-at-appknox.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;how-it-works&quot;&gt;How it works?&lt;/h3&gt;
+
+&lt;p&gt;Our back-end architecture consists of 3 subsystems: Client, Data and Workers.&lt;/p&gt;
+
+&lt;h4 id=&quot;client-subsystem&quot;&gt;Client Subsystem&lt;/h4&gt;
+
+&lt;p&gt;The client subsystem consists of two different load-balanced, auto-scaling App &amp;amp; Socket Servers. This is where all user-interactions takes place. We took much care not to have any blocking calls here to ensure lowest possible latency.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;App Server&lt;/strong&gt;: Each App server is a single Compute unit loaded with Nginx and Django-gunicorn server, managed by supervisord. User requests are served here. When a user submits the url their app, we submit it to the RabbitMQ &lt;code class=&quot;highlighter-rouge&quot;&gt;download&lt;/code&gt; queue and immediately let user know that the URL has been submitted. In case of uploading any app, a signed-url is fetched from server. The browser uploads data directly to the S3 with this signed-url and notifies the app server when it is done.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Socket server&lt;/strong&gt;: Each socket server is a single compute unit loaded with Nginx and a node (socket-io) server. This server uses Redis as its adapter. And yes, of course, this is used for real-time updates.&lt;/p&gt;
+
+&lt;h4 id=&quot;data-subsystem&quot;&gt;Data subsystem&lt;/h4&gt;
+
+&lt;p&gt;This system is used for data storage, queuing and pub/sub. Which is also responsible for a decoupled architecture.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Database Cluster&lt;/strong&gt;: We use Postgres. It goes without saying that it consists of a Write-Heavy master and few Read-Heavy replicas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RabbitMQ&lt;/strong&gt;: A broker to our celery workers. We have different queues for different workers. Mainly &lt;code class=&quot;highlighter-rouge&quot;&gt;download&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;validate&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;upload&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;analyse&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;report&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;mail&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;bot&lt;/code&gt;. The web server puts data into queue, the celery workers pick it up and run it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Redis&lt;/strong&gt;: This acts a adapters to socket-io servers. When ever we want to notify user an update from any of our workers, we publish it to Redis, which in turn will notify all users trough Socket.IO.&lt;/p&gt;
+
+&lt;h4 id=&quot;worker-subsystem&quot;&gt;Worker Subsystem&lt;/h4&gt;
+
+&lt;p&gt;This is where all the heavy lifting works are done. All the workers gets tasks from RabbitMQ and Published updates to users thorough Redis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Static Scanners&lt;/strong&gt;: This is an auto-scaling Compute unit group. Each unit consists of 4-5 celery workers. Each celery worker scans single app at a time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other tasks&lt;/strong&gt;: This is an auto-scaling Compute unit group. Each unit consists of 4-5 celery workers which does various tasks like download apps from stores, generating report pdf, uploading report pdf, sending emails, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dynamic Scanning&lt;/strong&gt;: This is platform-specific. Each Android dynamic scanner is a On-Demand Compute instance that has android emulator (With SDKs) and a script that captures data. This emulator is shown on a canvas in the browser for user to interact. Each iOS scanner is in a managed Mac-Mini farm that has scripts and simulators supporting the iOS platform.&lt;/p&gt;
+
+&lt;h3 id=&quot;reasons-for-choosing-the-stack&quot;&gt;Reasons for choosing the stack&lt;/h3&gt;
+
+&lt;p&gt;We chose Python because the primary libraries that we use to scan applications is in python. Also, we love python more than any other languages that we know.&lt;/p&gt;
+
+&lt;p&gt;We chose Django because it embraces modularity.&lt;/p&gt;
+
+&lt;p&gt;Ember - We think that this is the most awesome Front-end framework that is out there. Yes, the learning curve is too steep than any-other, but once you climb that steep mountain, you will absolutely love ember. It is very opinionated. So as long as you stick to its conventions, you write less to do more.&lt;/p&gt;
+
+&lt;p&gt;Postgres - Originally, we chose MySQL because it was de-facto. After Oracle purchased Sun Microsystems (Parent company of MySQL), MySQL became stagnant. I guess we all expected it. So we dided to use MariaDB [A fork of MySQL] maintained by community. Later, we required persistent key-value stores a bit, which is offered out of the box by Postgres. It plays really well with Python. We use UUIDs as primary keys which is a native data type in Postgres. Also, the &lt;code class=&quot;highlighter-rouge&quot;&gt;uuis-ossp&lt;/code&gt; module provided functions to generate and manipulate UUIDs at the Database level, rather than creating them at application level, which was costlier. So we switched to Postgres.&lt;/p&gt;
+
+&lt;p&gt;And the rest are de-facto. RabbitMQ for Task Queues. Celery for Task Management. Redis for Pub/Sub. Memcached &amp;amp; Varnish for caching.&lt;/p&gt;
+
+&lt;h3 id=&quot;things-that-didnt-go-as-expected&quot;&gt;Things that didn’t go as expected&lt;/h3&gt;
+
+&lt;p&gt;One of the things that didn’t go as expected is scaling sockets. We were using Django-socket.io initially. We realized that this couldn’t be scaled to multiple servers. So we wrote that as a separate node module. We used node’s socket-io library that supported Redis-adapter. Clients are connected to the node’s socket server. So we now publish to Redis from our python code. Node will just push the notifications to clients. This can be scaled independently of the app-server that acts as a JSON endpoint to the clients.&lt;/p&gt;
+
+&lt;h3 id=&quot;notable-stuff-about-our-stack&quot;&gt;Notable stuff about our stack&lt;/h3&gt;
+
+&lt;p&gt;We love modular design. We went to modularize stuff so far that we de-coupled our front-end from our back-end. Yes, you read it right. All the HTML, CoffeeScript and LESS code is developed independently of the back-end. Front-end development does not require server to be running. We rely on front-end fixtures for fake data during development.&lt;/p&gt;
+
+&lt;p&gt;Our back-end is named Sherlock. We detect security vulnerabilities in mobile applications. So the name seemed apt. Sherlock is smart.&lt;/p&gt;
+
+&lt;p&gt;And our Front-end is named Irene. Remember Irene Adler? She is beautiful, colorful and tells our user’s whats wrong.&lt;/p&gt;
+
+&lt;p&gt;And our Admin is named Hudson. Remember Mrs.Hudson? Sherlock’s land-lady? Thinking of which we should have probably given a role to poor Dr.Watson. Maybe we will.&lt;/p&gt;
+
+&lt;p&gt;So Sherlock does not serve any HTML/CSS/JS files. I repeat, It does not serve ANY single static file / HTML file. Both sherlock and Irene are developed independently. Both have separate deployment process. Both have their own test-cases. We deploy sherlock to Compute instances and we deploy Irene to Google Cloud Storage.&lt;/p&gt;
+
+&lt;p&gt;The advantage of such architecture is that:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The Front End team can work independent of the back-end without stepping on each other toes.&lt;/li&gt;
+  &lt;li&gt;The heavy lifting work like rendering pages on the server is taken off of server.&lt;/li&gt;
+  &lt;li&gt;We can open-source the front-end code. Making it easy to hire front-end guys. Just ask them to fix a bug in the repo and they are hired. After all, front-end code can be read by anyone even if you don’t open-source it right?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;our-deployment-process&quot;&gt;Our deployment process&lt;/h3&gt;
+
+&lt;p&gt;The code is auto-deployed from the &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; branch. We follow &lt;a href=&quot;http://nvie.com/posts/a-successful-git-branching-model/&quot;&gt;Vincent Driessen&lt;/a&gt;’s Git branching model. Jenkins build commits to &lt;code class=&quot;highlighter-rouge&quot;&gt;develop&lt;/code&gt; branch. If it succeeds we do another manual testing, just to be sure and merge it with &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; branch and it gets auto deployed.&lt;/p&gt;</content><author><name>dhilipsiva</name></author><summary type="html">What does Appknox do?</summary></entry><entry><title type="html">Why is my site in purple color?</title><link href="http://dhilipsiva.com/2014/12/14/why-is-my-site-in-purple-color.html" rel="alternate" type="text/html" title="Why is my site in purple color?" /><published>2014-12-14T00:00:00+05:30</published><updated>2014-12-14T00:00:00+05:30</updated><id>http://dhilipsiva.com/2014/12/14/why-is-my-site-in-purple-color</id><content type="html" xml:base="http://dhilipsiva.com/2014/12/14/why-is-my-site-in-purple-color.html">&lt;p&gt;This is a tribute to Rebecca Meyer. She love purple color &lt;a href=&quot;https://twitter.com/hashtag/663399becca?src=hash&quot;&gt;#663399&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;She was &lt;a href=&quot;https://twitter.com/meyerweb&quot;&gt;Eric Meyer&lt;/a&gt;’s daughter.&lt;/p&gt;
+
+&lt;p&gt;Read the full story &lt;a href=&quot;http://www.zeldman.com/2014/06/10/the-color-purple/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Twitter Hashtag : &lt;a href=&quot;https://twitter.com/hashtag/663399becca&quot;&gt;#663399becca&lt;/a&gt;&lt;/p&gt;</content><author><name>dhilipsiva</name></author><summary type="html">This is a tribute to Rebecca Meyer. She love purple color #663399</summary></entry><entry><title type="html">A Google Cloud Storage Utility in python</title><link href="http://dhilipsiva.com/2014/12/09/a-google-cloud-storage-utility-in-python.html" rel="alternate" type="text/html" title="A Google Cloud Storage Utility in python" /><published>2014-12-09T00:00:00+05:30</published><updated>2014-12-09T00:00:00+05:30</updated><id>http://dhilipsiva.com/2014/12/09/a-google-cloud-storage-utility-in-python</id><content type="html" xml:base="http://dhilipsiva.com/2014/12/09/a-google-cloud-storage-utility-in-python.html">&lt;p&gt;This is a utility to PUT, GET and get data to make a signed request for Google Cloud Storage&lt;/p&gt;
+
+&lt;noscript&gt;&lt;pre&gt;#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+# vim:fenc=utf-8
+#
+# Copyright © 2014 dhilipsiva &amp;lt;dhilipsiva@gmail.com&amp;gt;
+#
+# Distributed under terms of the MIT license.
+
+&amp;quot;&amp;quot;&amp;quot;
+Requirements:
+  pycrypto
+  requests
+&amp;quot;&amp;quot;&amp;quot;
+
+import base64
+import datetime
+import md5
+import time
+
+import requests
+from Crypto.Hash import SHA256
+from Crypto.PublicKey import RSA
+from Crypto.Signature import PKCS1_v1_5
+
+# Set this to the path of your service account private key file, in DER format.
+#
+# PyCrypto requires using the DER key format, but GCS provides key files in
+# pkcs12 format. To convert between formats, you can use the provided commands
+# below.
+#
+# The default password for p12 file is `notasecret`
+#
+# Given a GCS key in pkcs12 format, convert it to PEM using this command:
+#   openssl pkcs12 -in path/to/key.p12 -nodes -nocerts &amp;gt; path/to/key.pem
+# Given a GCS key in PEM format, convert it to DER format using this command:
+#   openssl rsa -in privatekey.pem -inform PEM -out privatekey.der -outform DER
+GC_PRIVATE_KEY_PATH = &amp;quot;privatekey.der&amp;quot;
+GC_BUCKET_NAME = &amp;#39;bucket&amp;#39;
+GC_STORAGE_ENDPOINT = &amp;#39;//storage.googleapis.com&amp;#39;
+GC_EMAIL_ADDRESS = &amp;#39;1234567890abcdefghijklmnopqr@developer.gserviceaccount.com&amp;#39;
+
+keytext = open(GC_PRIVATE_KEY_PATH, &amp;#39;rb&amp;#39;).read()
+key = RSA.importKey(keytext)
+
+# Sample Usage:
+# put_data(&amp;#39;blah.txt&amp;#39;, &amp;#39;blah blah&amp;#39;)
+# get_data(&amp;#39;blah.txt&amp;#39;)
+
+
+def _base64Sign(plaintext):
+    &amp;quot;&amp;quot;&amp;quot;
+    Signs and returns a base64-encoded SHA256 digest.
+    &amp;quot;&amp;quot;&amp;quot;
+    shahash = SHA256.new(plaintext)
+    signer = PKCS1_v1_5.new(key)
+    signature_bytes = signer.sign(shahash)
+    return base64.b64encode(signature_bytes)
+
+
+def _makeSignatureString(verb, path, content_md5, content_type, expiration):
+    &amp;quot;&amp;quot;&amp;quot;
+    Creates the signature string for signing according to GCS docs.
+    &amp;quot;&amp;quot;&amp;quot;
+    signature_string = (
+        &amp;#39;{verb}\n&amp;#39;
+        &amp;#39;{content_md5}\n&amp;#39;
+        &amp;#39;{content_type}\n&amp;#39;
+        &amp;#39;{expiration}\n&amp;#39;
+        &amp;#39;{resource}&amp;#39;
+    )
+
+    return signature_string.format(
+        verb=verb, content_md5=content_md5, content_type=content_type,
+        expiration=expiration, resource=path)
+
+
+def _makeUrl(verb, path, content_type=&amp;#39;&amp;#39;, content_md5=&amp;#39;&amp;#39;):
+    &amp;quot;&amp;quot;&amp;quot;
+    Forms and returns the full signed URL to access GCS.
+    &amp;quot;&amp;quot;&amp;quot;
+    path = &amp;#39;/%s/%s&amp;#39; % (GC_BUCKET_NAME, path)
+    base_url = &amp;#39;%s%s&amp;#39; % (GC_STORAGE_ENDPOINT, path)
+    expiration = datetime.datetime.now() + datetime.timedelta(hours=1)
+    expiration = int(time.mktime(expiration.timetuple()))
+    signature_string = _makeSignatureString(
+        verb, path, content_md5, content_type, expiration)
+    signature_signed = _base64Sign(signature_string)
+    query_params = {
+        &amp;#39;GoogleAccessId&amp;#39;: GC_EMAIL_ADDRESS,
+        &amp;#39;Expires&amp;#39;: str(expiration),
+        &amp;#39;Signature&amp;#39;: signature_signed,
+    }
+    return base_url, query_params
+
+
+def get_data(file_key):
+    &amp;quot;&amp;quot;&amp;quot;
+    Performs a GET request.
+    Args:
+        file_key: Key of the file you want to access as found in
+            `&amp;lt;bucket-name&amp;gt;/&amp;lt;file_key&amp;gt;`
+    Returns:
+        An instance of requests.Response containing the HTTP response.
+    &amp;quot;&amp;quot;&amp;quot;
+
+    base_url, query_params = _makeUrl(&amp;#39;GET&amp;#39;, file_key)
+    return requests.get(&amp;#39;https:&amp;#39; + base_url, params=query_params)
+
+
+def put_data(file_key, data, content_type=&amp;#39;application/octet-stream&amp;#39;):
+    &amp;quot;&amp;quot;&amp;quot;
+    Performs a PUT request.
+    Args:
+        file_key: Key of the file you want to access as found in
+            `&amp;lt;bucket-name&amp;gt;/&amp;lt;file_key&amp;gt;`
+
+        content_type: The content type to assign to the upload.
+        data: The file data to upload to the new file.
+    Returns:
+        An instance of requests.Response containing the HTTP response.
+    &amp;quot;&amp;quot;&amp;quot;
+    md5_digest = base64.b64encode(md5.new(data).digest())
+    base_url, query_params = _makeUrl(
+        &amp;#39;PUT&amp;#39;, file_key, content_type, md5_digest)
+    headers = {
+        &amp;#39;Content-Type&amp;#39;: content_type,
+        &amp;#39;Content-MD5&amp;#39;: md5_digest,
+    }
+    return requests.put(
+        &amp;#39;https:&amp;#39; + base_url, params=query_params, headers=headers, data=data)
+
+
+def get_put_params(file_key, content_type, md5_digest):
+    &amp;quot;&amp;quot;&amp;quot;
+    Args:
+        file_key: Key of the file you want to access as found in
+            `&amp;lt;bucket-name&amp;gt;/&amp;lt;file_key&amp;gt;`
+
+        content_type: The content type to assign to the upload.
+        md5_digest: MD5 digest of file
+    Returns:
+        base_url, query_params and headers for signing the request
+    &amp;quot;&amp;quot;&amp;quot;
+    base_url, query_params = _makeUrl(
+        &amp;#39;PUT&amp;#39;, file_key, content_type, md5_digest)
+    headers = {
+        &amp;#39;Content-Type&amp;#39;: content_type,
+        &amp;#39;Content-MD5&amp;#39;: md5_digest,
+    }
+    return base_url, query_params, headers&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/dhilipsiva/3e51ccceebf4adbd535f.js&quot;&gt; &lt;/script&gt;</content><author><name>dhilipsiva</name></author><summary type="html">This is a utility to PUT, GET and get data to make a signed request for Google Cloud Storage</summary></entry><entry><title type="html">Pepper Spray Self Defence for Ladies</title><link href="http://dhilipsiva.com/2014/07/07/pepper-spray-self-defence-for-ladies.html" rel="alternate" type="text/html" title="Pepper Spray Self Defence for Ladies" /><published>2014-07-07T00:00:00+05:30</published><updated>2014-07-07T00:00:00+05:30</updated><id>http://dhilipsiva.com/2014/07/07/pepper-spray-self-defence-for-ladies</id><content type="html" xml:base="http://dhilipsiva.com/2014/07/07/pepper-spray-self-defence-for-ladies.html">&lt;p&gt;So I was speaking with an amazing Women Entrepreneur lately. She happened to come across a situation where she had to defend herself against two men who were threatening her. She tried getting away from them, but couldn’t. And there was no one nearby.&lt;/p&gt;
+
+&lt;p&gt;This was not ordinary women. She was well-prepared for a situation like this. She had the perfect self-defence secret weapon in her purse. It was a &lt;a href=&quot;http://en.wikipedia.org/wiki/Pepper_spray&quot;&gt;pepper spray&lt;/a&gt;. And she quickly sprayed it on them and she was able to get away safely. Thanks to the Pepper Spray, she was not harmed.&lt;/p&gt;
+
+&lt;p&gt;Most of the people here (in India) have no idea about Pepper Spray. So I am posting this here now to urge all the women to purchase it and carry always with you. Its like a personal bodyguard. So If you have a Sister / Wife / Mom / Female Friend, Please tell them about the Pepper Spray and buy them one and urge them to always carry one around. Because you will never know what is waiting for you out there. Better safe than sorry.&lt;/p&gt;
+
+&lt;p&gt;You can buy it here: &lt;a href=&quot;http://bit.ly/1mZeQ1i&quot;&gt;http://bit.ly/1mZeQ1i&lt;/a&gt;&lt;/p&gt;</content><author><name>dhilipsiva</name></author><summary type="html">So I was speaking with an amazing Women Entrepreneur lately. She happened to come across a situation where she had to defend herself against two men who were threatening her. She tried getting away from them, but couldn’t. And there was no one nearby.</summary></entry><entry><title type="html">I don’t want to be an Entrepreneur</title><link href="http://dhilipsiva.com/2014/06/29/i-don-t-want-to-be-an-entrepreneur.html" rel="alternate" type="text/html" title="I don't want to be an Entrepreneur" /><published>2014-06-29T00:00:00+05:30</published><updated>2014-06-29T00:00:00+05:30</updated><id>http://dhilipsiva.com/2014/06/29/i-don-t-want-to-be-an-entrepreneur</id><content type="html" xml:base="http://dhilipsiva.com/2014/06/29/i-don-t-want-to-be-an-entrepreneur.html">&lt;p&gt;5 years ago, I thought I wanted to be an Entrepreneur. Turns out, I wasn’t. I just love building stuff. &lt;code class=&quot;highlighter-rouge&quot;&gt;Building&lt;/code&gt; as in purely technical stuff: Gathering requirements, Write code, deploy, scale and maintain. And I certainly do not mean building a business and worrying about money.&lt;/p&gt;
+
+&lt;p&gt;I meet a lot of amazing people who are building a startup. I help them out. Again, &lt;code class=&quot;highlighter-rouge&quot;&gt;help&lt;/code&gt; in terms of technology. While I get really interested when they speak about the technology, it is really, really, really boring to listen them talk about fund-raising, money and other money-related stuff. And I don’t intend to offend any Entrepreneurs. I know building a business and making revenue is much harder. I respect them a lot.&lt;/p&gt;
+
+&lt;p&gt;It is not that money is not important to me, It is just that &lt;code class=&quot;highlighter-rouge&quot;&gt;worrying if my code works properly&lt;/code&gt; is more important than &lt;code class=&quot;highlighter-rouge&quot;&gt;worrying if I can generate revenue&lt;/code&gt;. I want to worry about &lt;code class=&quot;highlighter-rouge&quot;&gt;Will this scale properly?&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;Is there a better way to write this code?&lt;/code&gt; than &lt;code class=&quot;highlighter-rouge&quot;&gt;Will I make more profit next quarter?&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;Is there anyway I can improve my business?&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;So I have come to realize that: &lt;code class=&quot;highlighter-rouge&quot;&gt;I wanted only to be better programmer today, than I was yesterday&lt;/code&gt;. Like I mentioned earlier, I mean no disrespect for Entrepreneurs, I respect them a lot. It is just that I find satisfaction in different things. And as far as the money is concerned, the better the programmer I become, the more I will earn, and the less I will have to worry about it.&lt;/p&gt;
+
+&lt;p&gt;Lately, a lot of people are approaching me to build stuff which I wont get paid for but share the revenue. I am posting this here just to tell that I don’t want to do stuff like that. Not because I think that the Idea might fail and I might not get any money (As a matter of fact, I sometimes help people with absolutely nothing in return. I love doing stuff like that when I have time). Even if it is million-dollar Idea, I don’t want to do it this way. Because I don’t want anything in my head except technology.&lt;/p&gt;
+
+&lt;p&gt;And that is why I don’t want to be an Entrepreneur. I just want to be the guy who writes awesome code. Tell me what you want, let me write code and pay for what I wrote. :)&lt;/p&gt;</content><author><name>dhilipsiva</name></author><summary type="html">5 years ago, I thought I wanted to be an Entrepreneur. Turns out, I wasn’t. I just love building stuff. Building as in purely technical stuff: Gathering requirements, Write code, deploy, scale and maintain. And I certainly do not mean building a business and worrying about money.</summary></entry></feed>
